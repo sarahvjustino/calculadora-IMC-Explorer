@@ -206,4 +206,9 @@ form button:hover {
     .title {
         font-size: 3rem;
     }
+
+    .modal {
+        margin: 1rem;
+        text-align: center;
+    }
 }
